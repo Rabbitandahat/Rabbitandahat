@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Rabbitandahat
-- 👀 I’m interested in AI-first finance
 - 🌱 I’m currently learning data analysis and am a Python starter
-- 💞️ I’m looking to collaborate on financial application of Python or Fintech
-- Algorithmic support and resistance for day trading 
-- backtester for swing trade
+- 💞️ I’m looking to collaborate on financial application of Python or Fintec
 - 📫 How to reach me ...
 
 <!---
